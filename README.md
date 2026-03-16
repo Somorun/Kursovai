@@ -1,1 +1,1 @@
-Expense Tracker Project
+https://somorun.github.io/Kursovai/index.html
